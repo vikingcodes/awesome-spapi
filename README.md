@@ -40,8 +40,6 @@ List is a collection of the resources of SP-API docs, references, code snippet, 
 
 ### External Docs
 
-- [Docs](https://denolib.github.io/v8-docs/)
-- [DenoBeginner.com](https://DenoBeginner.com) - A completely free crash course on deno for beginners.
 
 ### Online Playgrounds
 
