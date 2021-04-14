@@ -40,6 +40,7 @@ List is a collection of the resources of SP-API docs, references, code snippet, 
 - [C# Library](https://github.com/amzn/selling-partner-api-models/tree/main/clients/sellingpartner-api-aa-csharp)
 - [C# Models ](https://github.com/amzn/selling-partner-api-models)
 - [API references](https://github.com/amzn/selling-partner-api-docs/tree/main/references)
+- [Postman Collections](https://github.com/amzn/selling-partner-api-models/tree/main/clients/postman-collections)
 
 ### External Docs
 
