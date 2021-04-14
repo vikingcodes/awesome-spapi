@@ -34,12 +34,12 @@ List is a collection of the resources of SP-API docs, references, code snippet, 
 ### Official Docs
 
 - [Official Site](https://github.com/amzn/)
-- [SP-API API Doc](https://github.com/amzn/selling-partner-api-docs)
-- [SP-API Developer Guide](https://github.com/amzn/selling-partner-api-docs/blob/main/guides/en-US/developer-guide/SellingPartnerApiDeveloperGuide.md)
-- [SP-API Java Library](https://github.com/amzn/selling-partner-api-models/tree/main/clients/sellingpartner-api-aa-java)
-- [SP-API C# Library](https://github.com/amzn/selling-partner-api-models/tree/main/clients/sellingpartner-api-aa-csharp)
-- [SP-API C# Models ](https://github.com/amzn/selling-partner-api-models)
-- [SP-API API references](https://github.com/amzn/selling-partner-api-docs/tree/main/references)
+- [API Doc](https://github.com/amzn/selling-partner-api-docs)
+- [Developer Guide](https://github.com/amzn/selling-partner-api-docs/blob/main/guides/en-US/developer-guide/SellingPartnerApiDeveloperGuide.md)
+- [Java Library](https://github.com/amzn/selling-partner-api-models/tree/main/clients/sellingpartner-api-aa-java)
+- [C# Library](https://github.com/amzn/selling-partner-api-models/tree/main/clients/sellingpartner-api-aa-csharp)
+- [C# Models ](https://github.com/amzn/selling-partner-api-models)
+- [API references](https://github.com/amzn/selling-partner-api-docs/tree/main/references)
 
 ### External Docs
 
