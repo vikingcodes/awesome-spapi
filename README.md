@@ -43,7 +43,7 @@ List is a collection of the resources of SP-API docs, references, code snippet, 
 - [Postman Collections](https://github.com/amzn/selling-partner-api-models/tree/main/clients/postman-collections)
 
 ### External Docs
-
+- [Ruby Library](https://github.com/ericcj/amz_sp_api)
 
 ### Online Playgrounds
 
