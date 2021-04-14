@@ -56,22 +56,16 @@ List is a collection of the resources of SP-API docs, references, code snippet, 
 ## Registries
 
 
-
 ## Showcases
 
 
 ## Tools
 
-- [commands](https://github.com/buttercubz/commands) - Create commands shortcuts for node js and deno
 
 ## Articles
 
-- [Develop with Deno and Visual Studio Code](https://medium.com/@kitsonk/develop-with-deno-and-visual-studio-code-225ce7c5b1ba)
-
 
 ## Presentations
-
-- [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU 2018](https://www.youtube.com/watch?v=M3BM9TB-8yA)
 
 
 ## Resources in Other Languages
