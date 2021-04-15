@@ -44,6 +44,12 @@ List is a collection of the resources of SP-API docs, references, code snippet, 
 
 ### External Docs
 - [Ruby Library](https://github.com/ericcj/amz_sp_api)
+- [PHP Library](https://github.com/clousale/amazon-sp-api-php)
+- [Node.js Library](https://github.com/ScaleLeap/selling-partner-api-sdk)
+- [PHP Library](https://github.com/double-break/spapi-php)
+- [Node.js Library](https://github.com/amz-tools/amazon-sp-api)
+- [Go Library](https://github.com/amzapi/selling-partner-api-sdk)
+- [PHP Library](https://github.com/ionafan2/selling-partner-api-php-sandbox)
 
 ### Online Playgrounds
 
