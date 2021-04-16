@@ -33,7 +33,7 @@ List is a collection of the resources of SP-API docs, references, code snippet, 
 
 ### Official Docs
 
-- [Official Site](https://github.com/amzn/)
+- [Official Site](https://github.com/amzn/selling-partner-api-docs)
 - [API Doc](https://github.com/amzn/selling-partner-api-docs)
 - [Developer Guide](https://github.com/amzn/selling-partner-api-docs/blob/main/guides/en-US/developer-guide/SellingPartnerApiDeveloperGuide.md)
 - [Java Library](https://github.com/amzn/selling-partner-api-models/tree/main/clients/sellingpartner-api-aa-java)
@@ -43,6 +43,19 @@ List is a collection of the resources of SP-API docs, references, code snippet, 
 - [Postman Collections](https://github.com/amzn/selling-partner-api-models/tree/main/clients/postman-collections)
 
 ### External Docs
+
+### Articles 
+
+- [Amazon MWS is dead. Long live the Selling Partner API!](https://jesseevers.com/new-amazon-seller-api/)
+- [How to access the Amazon Selling Partner API](https://jesseevers.com/selling-partner-api-access/) 
+- [Amazon Releases New Selling Partner API (SP-API)](https://blog.openbridge.com/amazon-releases-modern-selling-partner-api-sp-api-2a5641341c28)
+
+
+### PHP Articles 
+
+-[Implementing the Selling Partner API OAuth flow] (https://jesseevers.com/spapi-oauth/)
+-[How to use my Selling Partner API PHP library] (https://jesseevers.com/spapi-php-library/)
+-[A basic application with Amazon’s Selling Partner API] (https://jesseevers.com/spapi-first-application/)
 
 ### SDK Library
 - [Ruby Library](https://github.com/ericcj/amz_sp_api)
