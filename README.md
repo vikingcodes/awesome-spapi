@@ -52,6 +52,7 @@ List is a collection of the resources of SP-API docs, references, code snippet, 
 - [Node.js Library](https://github.com/amz-tools/amazon-sp-api)
 - [Go Library](https://github.com/amzapi/selling-partner-api-sdk)
 - [PHP Library](https://github.com/ionafan2/selling-partner-api-php-sandbox)
+- [PHP Library](https://github.com/jlevers/selling-partner-api)
 
 ### Online Playgrounds
 
