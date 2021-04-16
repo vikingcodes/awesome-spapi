@@ -53,9 +53,9 @@ List is a collection of the resources of SP-API docs, references, code snippet, 
 
 ### PHP Articles 
 
--[Implementing the Selling Partner API OAuth flow](https://jesseevers.com/spapi-oauth/)
--[How to use my Selling Partner API PHP library](https://jesseevers.com/spapi-php-library/)
--[A basic application with Amazon’s Selling Partner API](https://jesseevers.com/spapi-first-application/)
+- [Implementing the Selling Partner API OAuth flow](https://jesseevers.com/spapi-oauth/)
+- [How to use my Selling Partner API PHP library](https://jesseevers.com/spapi-php-library/)
+- [A basic application with Amazon’s Selling Partner API](https://jesseevers.com/spapi-first-application/)
 
 ### SDK Library
 - [Ruby Library](https://github.com/ericcj/amz_sp_api)
