@@ -66,7 +66,7 @@ List is a collection of the resources of SP-API docs, references, code snippet, 
 
 ### GO SDK/ Library
 
-- [amzapi](https://github.com/amzapi/selling-partner-api-sdk) ![GitHub stars](https://img.shields.io/github/stars/amzapi/selling-partner-api-sd?style=plastic&logoWidth=1)
+- [amzapi](https://github.com/amzapi/selling-partner-api-sdk) ![GitHub stars](https://img.shields.io/github/stars/amzapi/selling-partner-api-sdk?style=plastic&logoWidth=1)
 
 ### Ruby Library
 
