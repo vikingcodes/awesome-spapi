@@ -42,7 +42,7 @@ List is a collection of the resources of SP-API docs, references, code snippet, 
 
 ### SDK/Library
 
-## PHP SDK/ Library
+#### PHP SDK/ Library
 
 - [clousale](https://github.com/clousale/amazon-sp-api-php) ![GitHub stars](https://img.shields.io/github/stars/clousale/amazon-sp-api-php?style=plastic&logoWidth=1)
 - [ionafan2](https://github.com/ionafan2/selling-partner-api-php-sandbox) ![GitHub stars](https://img.shields.io/github/stars/ionafan2/selling-partner-api-php-sandbox?style=plastic&logoWidth=1)
