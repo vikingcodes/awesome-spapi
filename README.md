@@ -1,4 +1,4 @@
-# Awesome SPAPI (Selling Partner API) [![Awesome](https://sellingpartnerapi.dev/badge.svg)](https://github.com/amzn/selling-partner-api-docs)
+# Awesome SPAPI (Selling Partner API)  
 
  
 
