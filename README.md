@@ -59,7 +59,7 @@ List is a collection of the resources of SP-API docs, references, code snippet, 
 
 - [ScaleLeap](https://github.com/ScaleLeap/selling-partner-api-sdk) ![GitHub stars](https://img.shields.io/github/stars/ScaleLeap/selling-partner-api-sdk?style=plastic&logoWidth=1)
 - [amz-tools](https://github.com/amz-tools/amazon-sp-api) ![GitHub stars](https://img.shields.io/github/stars/amz-tools/amazon-sp-api?style=plastic&logoWidth=1)
-- 
+
 ### Videos 
 
 #### C# Videos
