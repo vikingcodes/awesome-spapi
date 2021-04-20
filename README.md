@@ -65,7 +65,7 @@ List is a collection of the resources of SP-API docs, references, code snippet, 
 - [Node.js Library](https://github.com/amz-tools/amazon-sp-api)
 - [PHP Library](https://github.com/ionafan2/selling-partner-api-php-sandbox)
 - [PHP Library](https://github.com/jlevers/selling-partner-api)
-- [PHP Library](https://github.com/double-break/spapi-php) ![GitHub stars](https://github.com/double-break/spapi-php?style=plastic&logoWidth=1)
+- [spapi-php is a http client for Amazon's Selling Partner API](https://github.com/double-break/spapi-php) ![GitHub stars](https://img.shields.io/github/stars/double-break/spapi-php?style=plastic&logoWidth=1)
 
 ### GO SDK/ Library
 
