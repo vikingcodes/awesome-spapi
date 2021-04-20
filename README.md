@@ -9,7 +9,7 @@ List is a collection of SP-API docs, references, code snippet, modules and resou
 - [Docs](#docs)
   - [Official Docs](#official-docs)
   - [External Docs](#external-docs)
-- [SDK/Library](#SDK/Library)
+- [SDK/Library](#Library)
 - [Videos](#videos)
 
 ## Docs
@@ -38,16 +38,16 @@ List is a collection of SP-API docs, references, code snippet, modules and resou
 - [How to use my Selling Partner API PHP library](https://jesseevers.com/spapi-php-library/)
 - [A basic application with Amazon’s Selling Partner API](https://jesseevers.com/spapi-first-application/)
 
-### SDK/Library
+### Library
 
-#### PHP SDK/ Library
+#### PHP Library
 
 - [clousale](https://github.com/clousale/amazon-sp-api-php) ![GitHub stars](https://img.shields.io/github/stars/clousale/amazon-sp-api-php?style=plastic&logoWidth=1)
 - [ionafan2](https://github.com/ionafan2/selling-partner-api-php-sandbox) ![GitHub stars](https://img.shields.io/github/stars/ionafan2/selling-partner-api-php-sandbox?style=plastic&logoWidth=1)
 - [jlevers](https://github.com/jlevers/selling-partner-api) ![GitHub stars](https://img.shields.io/github/stars/jlevers/selling-partner-api?style=plastic&logoWidth=1)
 - [double-break/spapi-php](https://github.com/double-break/spapi-php) ![GitHub stars](https://img.shields.io/github/stars/double-break/spapi-php?style=plastic&logoWidth=1)
 
-#### GO SDK/ Library
+#### GO Library
 
 - [amzapi](https://github.com/amzapi/selling-partner-api-sdk) ![GitHub stars](https://img.shields.io/github/stars/amzapi/selling-partner-api-sdk?style=plastic&logoWidth=1)
 
