@@ -82,9 +82,7 @@ List is a collection of the resources of SP-API docs, references, code snippet, 
 
 ## Registries
 
-
 ## Showcases
-
 
 ## Tools
 
