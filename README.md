@@ -1,7 +1,5 @@
 # Awesome SPAPI (Selling Partner API)  
 
- 
-
 Selling Partner-API (SP-API) is a modernized suite of REST APIs utilizing standards that today's developers expect, while making it as simple as possible to migrate from our legacy Marketplace Web Service (MWS) APIs.
 
 List is a collection of the resources of SP-API docs, references, code snippet, modules and resources.
