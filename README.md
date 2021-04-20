@@ -62,7 +62,7 @@ List is a collection of the resources of SP-API docs, references, code snippet, 
 - 
 ### Videos 
 
-#### C# Video
+#### C# Videos
 
 - [Amazon Selling Partner API Get Orders](https://www.youtube.com/watch?v=5clKZvJdPk8)
 - [Amazon Selling Partner API Update Inventory](https://www.youtube.com/watch?v=jb4OtUKE2-Y)
