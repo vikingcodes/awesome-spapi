@@ -58,22 +58,25 @@ List is a collection of the resources of SP-API docs, references, code snippet, 
 - [A basic application with Amazon’s Selling Partner API](https://jesseevers.com/spapi-first-application/)
 
 ### PHP SDK/ Library
-- [Ruby Library](https://github.com/ericcj/amz_sp_api)
-- [PHP Library](https://github.com/clousale/amazon-sp-api-php)
-- [Node.js Library](https://github.com/ScaleLeap/selling-partner-api-sdk)
-- [PHP Library](https://github.com/double-break/spapi-php)
-- [Node.js Library](https://github.com/amz-tools/amazon-sp-api)
-- [PHP Library](https://github.com/ionafan2/selling-partner-api-php-sandbox)
-- [PHP Library](https://github.com/jlevers/selling-partner-api)
+
+- [clousale](https://github.com/clousale/amazon-sp-api-php) ![GitHub stars](https://img.shields.io/github/stars/clousale/amazon-sp-api-php?style=plastic&logoWidth=1)
+- [ionafan2](https://github.com/ionafan2/selling-partner-api-php-sandbox) ![GitHub stars](https://img.shields.io/github/stars/ionafan2/selling-partner-api-php-sandbox?style=plastic&logoWidth=1)
+- [jlevers](https://github.com/jlevers/selling-partner-api) ![GitHub stars](https://img.shields.io/github/stars/jlevers/selling-partner-api?style=plastic&logoWidth=1)
 - [double-break/spapi-php](https://github.com/double-break/spapi-php) ![GitHub stars](https://img.shields.io/github/stars/double-break/spapi-php?style=plastic&logoWidth=1)
 
 ### GO SDK/ Library
 
-- [Go Library](https://github.com/amzapi/selling-partner-api-sdk)
- 
-### Online Playgrounds
+- [amzapi](https://github.com/amzapi/selling-partner-api-sdk) ![GitHub stars](https://img.shields.io/github/stars/amzapi/selling-partner-api-sd?style=plastic&logoWidth=1)
 
+### Ruby Library
 
+- [ericcj](https://github.com/ericcj/amz_sp_api) ![GitHub stars](https://img.shields.io/github/stars/ericcj/amz_sp_api?style=plastic&logoWidth=1)
+
+### Node.js Library
+
+- [ScaleLeap](https://github.com/ScaleLeap/selling-partner-api-sdk) ![GitHub stars](https://img.shields.io/github/stars/ScaleLeap/selling-partner-api-sdk?style=plastic&logoWidth=1)
+- [amz-tools](https://github.com/amz-tools/amazon-sp-api) ![GitHub stars](https://img.shields.io/github/stars/amz-tools/amazon-sp-api?style=plastic&logoWidth=1)
+- 
 ### Assistants
 
 
