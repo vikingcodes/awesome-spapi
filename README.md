@@ -49,22 +49,22 @@ List is a collection of the resources of SP-API docs, references, code snippet, 
 - [jlevers](https://github.com/jlevers/selling-partner-api) ![GitHub stars](https://img.shields.io/github/stars/jlevers/selling-partner-api?style=plastic&logoWidth=1)
 - [double-break/spapi-php](https://github.com/double-break/spapi-php) ![GitHub stars](https://img.shields.io/github/stars/double-break/spapi-php?style=plastic&logoWidth=1)
 
-## GO SDK/ Library
+#### GO SDK/ Library
 
 - [amzapi](https://github.com/amzapi/selling-partner-api-sdk) ![GitHub stars](https://img.shields.io/github/stars/amzapi/selling-partner-api-sdk?style=plastic&logoWidth=1)
 
-## Ruby Library
+#### Ruby Library
 
 - [ericcj](https://github.com/ericcj/amz_sp_api) ![GitHub stars](https://img.shields.io/github/stars/ericcj/amz_sp_api?style=plastic&logoWidth=1)
 
-## Node.js Library
+#### Node.js Library
 
 - [ScaleLeap](https://github.com/ScaleLeap/selling-partner-api-sdk) ![GitHub stars](https://img.shields.io/github/stars/ScaleLeap/selling-partner-api-sdk?style=plastic&logoWidth=1)
 - [amz-tools](https://github.com/amz-tools/amazon-sp-api) ![GitHub stars](https://img.shields.io/github/stars/amz-tools/amazon-sp-api?style=plastic&logoWidth=1)
 - 
 ### Videos 
 
-## C# Video
+#### C# Video
 
 - [Amazon Selling Partner API Get Orders](https://www.youtube.com/watch?v=5clKZvJdPk8)
 - [Amazon Selling Partner API Update Inventory](https://www.youtube.com/watch?v=jb4OtUKE2-Y)
