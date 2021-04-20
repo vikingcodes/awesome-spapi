@@ -44,7 +44,7 @@ List is a collection of the resources of SP-API docs, references, code snippet, 
 
 ### External Docs
 
-### Articles 
+### General Articles 
 
 - [Amazon MWS is dead. Long live the Selling Partner API!](https://jesseevers.com/new-amazon-seller-api/)
 - [How to access the Amazon Selling Partner API](https://jesseevers.com/selling-partner-api-access/) 
