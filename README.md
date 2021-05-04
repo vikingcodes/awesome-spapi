@@ -21,7 +21,7 @@ List is a collection of SP-API docs, references, code snippet, modules and resou
 - [Developer Guide](https://github.com/amzn/selling-partner-api-docs/blob/main/guides/en-US/developer-guide/SellingPartnerApiDeveloperGuide.md)
 - [Java Library](https://github.com/amzn/selling-partner-api-models/tree/main/clients/sellingpartner-api-aa-java)
 - [C# Library](https://github.com/amzn/selling-partner-api-models/tree/main/clients/sellingpartner-api-aa-csharp)
-- [C# Models ](https://github.com/amzn/selling-partner-api-models)
+- [Models ](https://github.com/amzn/selling-partner-api-models)
 - [API references](https://github.com/amzn/selling-partner-api-docs/tree/main/references)
 - [Postman Collections](https://github.com/amzn/selling-partner-api-models/tree/main/clients/postman-collections)
 
