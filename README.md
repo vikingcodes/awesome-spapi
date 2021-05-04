@@ -30,7 +30,7 @@ List is a collection of SP-API docs, references, code snippet, modules and resou
 - [Amazon MWS is dead. Long live the Selling Partner API!](https://jesseevers.com/new-amazon-seller-api/)
 - [How to access the Amazon Selling Partner API](https://jesseevers.com/selling-partner-api-access/) 
 - [Amazon Releases New Selling Partner API (SP-API)](https://blog.openbridge.com/amazon-releases-modern-selling-partner-api-sp-api-2a5641341c28)
-
+- [Amazon SP-API Auth & Auth Demystified](https://marco-tibaldeschi.medium.com/amazon-sp-api-auth-auth-demystified-ab3bc746729b)
 
 ### PHP Articles 
 
