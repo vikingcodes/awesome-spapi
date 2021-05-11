@@ -47,6 +47,10 @@ List is a collection of SP-API docs, references, code snippet, modules and resou
 - [jlevers](https://github.com/jlevers/selling-partner-api) ![GitHub stars](https://img.shields.io/github/stars/jlevers/selling-partner-api?style=plastic&logoWidth=1)
 - [double-break/spapi-php](https://github.com/double-break/spapi-php) ![GitHub stars](https://img.shields.io/github/stars/double-break/spapi-php?style=plastic&logoWidth=1)
 
+#### Python
+
+- [amzapi](https://github.com/saleweaver/python-amazon-sp-api) ![GitHub stars](https://img.shields.io/github/stars/saleweaver/python-amazon-sp-api?style=plastic&logoWidth=1)
+
 #### GO Library
 
 - [amzapi](https://github.com/amzapi/selling-partner-api-sdk) ![GitHub stars](https://img.shields.io/github/stars/amzapi/selling-partner-api-sdk?style=plastic&logoWidth=1)
