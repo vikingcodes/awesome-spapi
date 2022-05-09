@@ -40,6 +40,10 @@ List is a collection of SP-API docs, references, code snippet, modules and resou
 
 ### Library
 
+#### C# Library
+
+- [Amazon Selling Partner API C#] (https://github.com/abuzuhri/Amazon-SP-API-CSharp) ![GitHub stars](https://img.shields.io/github/stars/abuzuhri/Amazon-SP-API-CSharp?style=plastic&logoWidth=1)
+
 #### PHP Library
 
 - [clousale](https://github.com/clousale/amazon-sp-api-php) ![GitHub stars](https://img.shields.io/github/stars/clousale/amazon-sp-api-php?style=plastic&logoWidth=1)
