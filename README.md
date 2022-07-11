@@ -16,9 +16,9 @@ List is a collection of SP-API docs, references, code snippet, modules and resou
 
 ### Official Docs
 
-- [Official Site](https://github.com/amzn/selling-partner-api-docs)
-- [API Doc](https://github.com/amzn/selling-partner-api-docs)
-- [Developer Guide](https://github.com/amzn/selling-partner-api-docs/blob/main/guides/en-US/developer-guide/SellingPartnerApiDeveloperGuide.md)
+- [Official Site]([https://github.com/amzn/selling-partner-api-docs](https://developer-docs.amazon.com/sp-api/))
+- [API Doc]([https://github.com/amzn/selling-partner-api-docs](https://developer-docs.amazon.com/sp-api/docs))
+- [Developer Guide]([https://github.com/amzn/selling-partner-api-docs/blob/main/guides/en-US/developer-guide/SellingPartnerApiDeveloperGuide.md](https://developer-docs.amazon.com/sp-api/docs/what-is-the-selling-partner-api))
 - [Java Library](https://github.com/amzn/selling-partner-api-models/tree/main/clients/sellingpartner-api-aa-java)
 - [C# Library](https://github.com/amzn/selling-partner-api-models/tree/main/clients/sellingpartner-api-aa-csharp)
 - [Models ](https://github.com/amzn/selling-partner-api-models)
