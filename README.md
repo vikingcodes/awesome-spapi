@@ -73,6 +73,7 @@ List is a collection of SP-API docs, references, code snippet, modules and resou
 
 #### C# Videos
 
+- [Official Video *****](https://www.youtube.com/playlist?list=PLyrrqKCT7jFKENJO9n_Y68-5o2GZLgLUU)
 - [Amazon Selling Partner API Get Orders](https://www.youtube.com/watch?v=5clKZvJdPk8)
 - [Amazon Selling Partner API Update Inventory](https://www.youtube.com/watch?v=jb4OtUKE2-Y)
 - [Amazon Selling Partner API Acknowledge Orders](https://www.youtube.com/watch?v=mczbPja_OLs)
