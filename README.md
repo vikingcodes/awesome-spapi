@@ -24,6 +24,7 @@ List is a collection of SP-API docs, references, code snippet, modules and resou
 - [Models ](https://github.com/amzn/selling-partner-api-models)
 - [API references](https://github.com/amzn/selling-partner-api-docs/tree/main/references)
 - [Postman Collections](https://github.com/amzn/selling-partner-api-models/tree/main/clients/postman-collections)
+- [Official Video *****](https://www.youtube.com/playlist?list=PLyrrqKCT7jFKENJO9n_Y68-5o2GZLgLUU)
 
 ### General Articles 
 
