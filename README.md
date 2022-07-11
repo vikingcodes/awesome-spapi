@@ -4,6 +4,8 @@ Selling Partner-API (SP-API) is a modernized suite of REST APIs utilizing standa
 
 List is a collection of SP-API docs, references, code snippet, modules and resources.
 
+Amazon SP-API (Selling Partner API) - Official Video 👍🏼 (https://www.youtube.com/playlist?list=PLyrrqKCT7jFKENJO9n_Y68-5o2GZLgLUU)
+
 ## Contents
 
 - [Docs](#docs)
