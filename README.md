@@ -70,6 +70,7 @@ Amazon SP-API (Selling Partner API) - Official Video 👍🏼 (https://www.youtu
 
 - [ScaleLeap](https://github.com/ScaleLeap/selling-partner-api-sdk) ![GitHub stars](https://img.shields.io/github/stars/ScaleLeap/selling-partner-api-sdk?style=plastic&logoWidth=1)
 - [amz-tools](https://github.com/amz-tools/amazon-sp-api) ![GitHub stars](https://img.shields.io/github/stars/amz-tools/amazon-sp-api?style=plastic&logoWidth=1)
+- [Bizon](https://github.com/bizon/selling-partner-api-sdk) ![GitHub stars](https://img.shields.io/github/stars/bizon/selling-partner-api-sdk?style=plastic&logoWidth=1)
 
 ### Videos 
 
